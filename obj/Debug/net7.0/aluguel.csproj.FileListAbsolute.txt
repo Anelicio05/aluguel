@@ -1,0 +1,15 @@
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\bin\Debug\net7.0\aluguel.exe
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\bin\Debug\net7.0\aluguel.deps.json
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\bin\Debug\net7.0\aluguel.runtimeconfig.json
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\bin\Debug\net7.0\aluguel.dll
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\bin\Debug\net7.0\aluguel.pdb
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.csproj.AssemblyReference.cache
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.AssemblyInfoInputs.cache
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.AssemblyInfo.cs
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.csproj.CoreCompileInputs.cache
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.dll
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\refint\aluguel.dll
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.pdb
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\aluguel.genruntimeconfig.cache
+C:\Users\aneli\Documents\Udemy\C#\projetos\aluguel\obj\Debug\net7.0\ref\aluguel.dll
